@@ -10,7 +10,7 @@ def main():
 
     for i in range(5):
         print(prepare_user_msg(items[i]))
-        print(i)
+        print()
 
 
 if __name__ == "__main__":
